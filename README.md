@@ -74,9 +74,3 @@ Previous documentation can be found [here](https://docs.google.com/document/d/1W
 2. Ensure files include the overlap day (2023-11-12)
 3. Files will be processed and combined before BigQuery upload
 4. Combined and processed datasets are stored in `data/interim/`
-
-## Contributing
-[This section will be populated with contribution guidelines]
-
-## License
-[License information to be added]
