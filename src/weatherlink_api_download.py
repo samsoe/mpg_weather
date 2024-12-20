@@ -253,8 +253,8 @@ def collect_date_range_data(start_date_str, end_date=None, batch_days=7):
 
 
 if __name__ == "__main__":
-    # Start date is 2023-11-12
-    start_date = "2023-11-12"
+    # Start date is 2024-10-27
+    start_date = "2024-10-27"
 
     # Collect data from start date until yesterday, saving in weekly batches
     collect_date_range_data(start_date, batch_days=7)
